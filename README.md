@@ -1,5 +1,5 @@
 ### Hi!
-I'm a physics and computer science student open to data science and research positions.
+I'm a physics and computer science student open to data science and research internship positions.
 
 <!--
 **evilpegasus/evilpegasus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
