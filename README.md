@@ -1,6 +1,8 @@
 ### Hi!
 I'm a physics and computer science student open to data science, research, and software engineering internship positions.
 
+[![Ming's github stats](https://github-readme-stats.vercel.app/api?username=evilpegasus&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **evilpegasus/evilpegasus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
