@@ -7,10 +7,4 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://evilpegasus.github.io/" target="_blank"><img src="assets/website.png" width="40" height="40"></a>
 </p>
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/evilpegasus/count.svg" /> 
-</p>
-
-
 <!--[![Ming's github stats](https://github-readme-stats.vercel.app/api?username=evilpegasus&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
